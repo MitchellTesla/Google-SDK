@@ -1,6 +1,6 @@
 # Google-SDK  - Mitchell⟠
 Unofficial copy of Google Analytics iOS SDK to be used as a git submodule - 
-Google Analytics iOS SDK version 2.0 Beta 4
+Google Analytics iOS SDK version 2.0 Beta 4 - hardforked to (version 2.1 Beta 4)
 
 
 
